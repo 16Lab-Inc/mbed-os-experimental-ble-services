@@ -1,0 +1,3 @@
+add_subdirectory(DeviceInformation)
+add_subdirectory(CurrentTime)
+add_subdirectory(LinkLoss)
